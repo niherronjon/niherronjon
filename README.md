@@ -1,7 +1,7 @@
 
 
 
-![MasterHead](https://cloudgate.ie/wp-content/uploads/2020/09/artificial-intelligence.gif)
+![MasterHead](https://github.com/niherronjon/niherronjon/blob/main/Black%20Professional%20Technology%20Billboard%20(1).gif)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Niher Ronjon Pramanik</h1>
 <h3 align="center">Currently on a journey as a Software Engineering student.</h3>
