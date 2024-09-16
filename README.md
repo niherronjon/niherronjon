@@ -3,6 +3,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Niher Ronjon Pramanik</h1>
 <h3 align="center">Currently on a journey as a Software Engineering student.</h3>
 
+
 <img align="center" alt="coding" width="500" src="https://i.gifer.com/JcKF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niherronjon&label=Profile%20views&color=0e75b6&style=flat" alt="niherronjon" /> </p>
@@ -41,3 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niherronjon&" alt="niherronjon" /></p>
 
+#Watch snake eating my contributions.🐍
+
+![snake gif](https://github.com/niherronjon/niherronjon/blob/output/github-contribution-grid-snake.svg)
