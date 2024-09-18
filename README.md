@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **ROS**
 
-- 📝 I regularly write articles on [Mechine Learning](Mechine Learning)
+- 📝 I regularly write articles on [Machine Learning](Machine Learning)
 
 - 💬 Ask me about **Python,C,C++,Java**
 
