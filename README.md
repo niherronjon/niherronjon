@@ -59,4 +59,4 @@
 
 - **Watch snake eating my contributions.🐍**
 
-![snake gif](https://github.com/niherronjon/niherronjon/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/niherronjon/niherronjon/blob/output/github-contribution-grid-snake.svg)
