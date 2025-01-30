@@ -4,14 +4,6 @@
   </a>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=FF4500&center=true&vCenter=true&width=600&lines=cccccCCCurrently+on+a+journey+as+a+Software+Engineering+student." />
-</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niherronjon/niherronjon/output/github-contribution-grid-snake-dark.svg" alt="black snake animation" />
-</p>
-
 
 
 
