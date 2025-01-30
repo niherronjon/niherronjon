@@ -1,5 +1,22 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Niher Ronjon Pramanik</h1>
-<h3 align="center">Currently on a journey as a Software Engineering student.</h3>
+<h1 align="center">
+  <a href="https://github.com/niherronjon">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=100&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Niher+Ronjon+Pramanikkkk" />
+  </a>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=FF4500&center=true&vCenter=true&width=600&lines=cccccCCCurrently+on+a+journey+as+a+Software+Engineering+student." />
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niherronjon/niherronjon/output/github-contribution-grid-snake-dark.svg" alt="black snake animation" />
+</p>
+
+
+
+
+
+
 
 
 <img align="center" alt="coding" width="1000" src="https://i.gifer.com/JcKF.gif">
