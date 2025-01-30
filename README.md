@@ -1,13 +1,8 @@
-
-
-
-![MasterHead](https://github.com/niherronjon/niherronjon/blob/main/Black%20Professional%20Technology%20Billboard%20(1).gif)
-
 <h1 align="center">Hi 🙋‍♂️, I'm Niher Ronjon Pramanik</h1>
 <h3 align="center">Currently on a journey as a Software Engineering student.</h3>
 
 
-<img align="center" alt="coding" width="500" src="https://i.gifer.com/JcKF.gif">
+<img align="center" alt="coding" width="1000" src="https://i.gifer.com/JcKF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niherronjon&label=Profile%20views&color=0e75b6&style=flat" alt="niherronjon" /> </p>
 
@@ -34,16 +29,55 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/niher_ronjon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/niher_ronjon" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="coding" width="300" src="https://www.netanimations.net/Moving-picture-skeleton-riding-bike-around-world-animated-gif.gif">
+<img align="center" alt="coding" width="1000" src="https://www.netanimations.net/Moving-picture-skeleton-riding-bike-around-world-animated-gif.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niherronjon&show_icons=true&locale=en&layout=compact" alt="niherronjon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niherronjon&show_icons=true&locale=en" alt="niherronjon" /></p>
 
-<a href="https://github.com/niherronjon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niherronjon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=niherronjon&show_icons=true&locale=en" 
+    alt="niherronjon" 
+    width="1000" 
+    height="500" 
+  />
+</p>
+
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/niherronjon" align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niherronjon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" 
+    alt="Top Languages" 
+    width="1000" 
+    height="1000"
+  />
+</a>
+
+
+
 
 
 <b>Top Repositories</b>
@@ -53,11 +87,19 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niherronjon&" alt="niherronjon" /></p>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=niherronjon" 
+    alt="niherronjon" 
+    width="1000" 
+    height="500"
+  />
+</p>
+
 
 
 
 - **Watch snake eating my contributions.🐍**
 
 ![MasterHead](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
-![snake animation](https://github.com/niherronjon/niherronjon/blob/output/github-contribution-grid-snake.svg)
