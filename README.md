@@ -4,8 +4,6 @@
   </a>
 
 <img align="center" alt="coding" width="1000" src="https://github.com/niherronjon/Important-Things-Not-For-Share/blob/main/0E4F6ACB-C41F-4D1E-82FB-F0A19B2B84B9_1_201_a.jpeg">
-
-![MasterHead](https://github.com/niherronjon/Important-Things-Not-For-Share/blob/main/0E4F6ACB-C41F-4D1E-82FB-F0A19B2B84B9_1_201_a.jpeg)
   
 </h1>
 <h3 align="center">
