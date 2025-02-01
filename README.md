@@ -2,6 +2,9 @@
   <a href="https://github.com/niherronjon">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=100&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Niher+Ronjon+Pramanikkkk" />
   </a>
+
+![MasterHead](https://github.com/niherronjon/Important-Things-Not-For-Share/blob/main/IMG_2476-photoaidcom-2x-ai-zoom.jpg)
+  
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=FF4500&center=true&vCenter=true&width=600&lines=cccccCCCurrently+on+a+journey+as+a+Software+Engineering+student." />
