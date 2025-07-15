@@ -1,19 +1,28 @@
 <div align="center">
 <a href="https://github.com/niherronjon"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=100&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Niher+Ronjon+Pramanikkkk" alt="Typing SVG" /> </a> </div> <div align="center"> <img src="https://github.com/niherronjon/niherronjon/blob/main/IMG_2476-photoaidcom-2x-ai-zoom.jpg" alt="Profile Image" width="100%" style="max-width: 800px; height: auto;" /> </div>
 <div align="center">
+
+
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=FF4500&center=true&vCenter=true&width=600&lines=cccccCCCurrently+on+a+journey+as+a+Software+Engineering+student." alt="Subtitle" /> </div>
 <div align="center"> <img src="https://i.gifer.com/JcKF.gif" alt="Coding GIF" width="100%" style="max-width: 1000px; height: auto;" /> </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=niherronjon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=niherronjon&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" /> </a> </div> <p align="left"> <a href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
 
 
 
-<li>🚀 About Me </li>
+<strong> <li>🚀 About Me </li> <strong/>
 
-🔭 I'm currently working on Robot Design & Simulations
-👯 I'm looking to collaborate on ROS
-📝 I regularly write articles on Machine Learning
-💬 Ask me about Python, C, C++, Java
-📫 How to reach me niher176981@gmail.com
-🌐 Connect with Me
+<p>🔭 I'm currently working on Robot Design & Simulations</p>
+
+<p>👯 I'm looking to collaborate on ROS</p>
+
+<p>📝 I regularly write articles on Machine Learning</p>
+
+<p>💬 Ask me about Python, C, C++, Java</p>
+
+<p>📫 How to reach me niher176981@gmail.com</p>
+
+<strong> <li>🌐 Connect with Me</li> </strong>
+
 <div align="center"> <a href="https://fb.com/https://www.facebook.com/ni.her.397" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a> <a href="https://instagram.com/https://www.instagram.com/niher_ronjon_/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> <a href="https://www.youtube.com/@NiherRonjonPramanikArchive" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /> </a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/niher176981" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> </a> <a href="https://codeforces.com/profile/https://codeforces.com/profile/niher_ronjon" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /> </a> </div>
 <div align="center"> <img src="https://www.netanimations.net/Moving-picture-skeleton-riding-bike-around-world-animated-gif.gif" alt="Cycling Animation" width="100%" style="max-width: 1000px; height: auto;" /> </div>
 🛠️ Languages and Tools
