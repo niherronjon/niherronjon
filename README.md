@@ -3,7 +3,11 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=FF4500&center=true&vCenter=true&width=600&lines=cccccCCCurrently+on+a+journey+as+a+Software+Engineering+student." alt="Subtitle" /> </div>
 <div align="center"> <img src="https://i.gifer.com/JcKF.gif" alt="Coding GIF" width="100%" style="max-width: 1000px; height: auto;" /> </div> <p align="left"> <img src="https://komarev.com/ghpvc/?username=niherronjon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=niherronjon&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" /> </a> </div> <p align="left"> <a href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> </a> </p>
-🚀 About Me
+
+
+
+<li>🚀 About Me </li>
+
 🔭 I'm currently working on Robot Design & Simulations
 👯 I'm looking to collaborate on ROS
 📝 I regularly write articles on Machine Learning
