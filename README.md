@@ -11,6 +11,10 @@
 
 
 
+
+
+
+
 <div align="center"> 
   <img src="https://i.gifer.com/JcKF.gif" alt="Coding GIF" width="100%" style="max-width: 1000px; height: auto;" /> 
 </div>
@@ -74,36 +78,14 @@
 
 
 
-## 📊 Weekly Development Breakdown
+
+
+
+### 🌊 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/niherronjon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niherronjon&theme=transparent&utcOffset=6" alt="niherronjon's Productive Time" />
-  </a>
-  <a href="https://github.com/niherronjon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niherronjon&theme=transparent" alt="niherronjon's Repos Per Language" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niherronjon&theme=github-compact&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=39D353&area=true&hide_border=true&radius=10" alt="Contribution Graph" width="100%" />
 </p>
-
-
-
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niherronjon&show_icons=true&locale=en&layout=compact&bg_color=0,000000,0A0F24&text_color=FFFFFF&title_color=00BFFF&icon_color=00BFFF" alt="niherronjon" width="400" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=niherronjon&show_icons=true&locale=en&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0,000000,0A0F24" alt="niherronjon" height="200" />
-</p>
-
-<br clear="both" />
-
-
-
-
-
 
 
 
