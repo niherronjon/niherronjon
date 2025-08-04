@@ -26,7 +26,7 @@
 <!-- Professional Stats Banner -->
 <div align="center" style="margin: 40px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 100%;">
-    <img src="https://komarev.com/ghpvc/?username=niherronjon&label=Digital%20Visitors&color=2563eb&style=for-the-badge" alt="Digital Visitors" style="height: 28px;" />
+    <img src="https://komarev.com/ghpvc/?username=niherronjon&label=%20Visitors&color=2563eb&style=for-the-badge" alt="Visitors" style="height: 28px;" />
     <img src="https://img.shields.io/github/followers/niherronjon?label=Followers&style=for-the-badge&color=059669&labelColor=374151" alt="Followers" style="height: 28px;" />
     <img src="https://img.shields.io/github/stars/niherronjon?label=Total%20Stars&style=for-the-badge&color=ea580c&labelColor=374151" alt="Total Stars" style="height: 28px;" />
   </div>
